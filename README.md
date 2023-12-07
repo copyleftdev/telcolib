@@ -95,10 +95,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback related to `telcolib`, please open an issue in the GitHub repository.
 
-```
-
-### Notes:
-- Update the **Installation** section if the library will be available on PyPI or if there's a different installation process.
-- Expand the **Usage** section with more examples or detailed explanation if needed.
-- Ensure the **Contributing** and **Contact** sections align with how you want to manage contributions and communication.
-- Add any additional information relevant to your project or its community.
